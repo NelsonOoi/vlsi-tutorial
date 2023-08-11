@@ -11,7 +11,11 @@ Tutorial on getting started with testing, Cadence Virtuoso, VerilogA, and more f
 - VerilogA
   - [VerilogA Language Reference Manual by Open Verilog International](https://www.siue.edu/~gengel/ece585WebStuff/OVI_VerilogA.pdf)
   - [Minimal example for writing an analog module](https://community.cadence.com/cadence_technology_forums/f/custom-ic-skill/42686/virtuoso-how-to-create-a-truly-parametric-component-i-e-with-dynamic-termorder)
-  - [A deeper dive into Verilog from UC Berkeley](https://inst.eecs.berkeley.edu/~eecs151/fa20/files/verilog/Verilog_Primer_Slides.pdf)
+  - [A Verilog Primer from UC Berkeley](https://inst.eecs.berkeley.edu/~eecs151/fa20/files/verilog/Verilog_Primer_Slides.pdf)
+  - Explaining syntax
+    - [```localparam``` vs ```parameter```](https://stackoverflow.com/questions/30288783/difference-between-parameter-and-localparam)
+    - [```genvar``` vs ```int```](https://electronics.stackexchange.com/questions/520681/verilog-for-loop-genvar-vs-int)
+    - [SystemVerilog Macros](https://www.systemverilog.io/verification/macros/)
 
 
 ## Credits
