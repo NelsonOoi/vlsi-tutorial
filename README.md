@@ -2,7 +2,8 @@
 Tutorial on getting started with testing, Cadence Virtuoso, VerilogA, and more for VLSI. Created for the course ECE 4740: Introduction to VLSI Design at Cornell University.
 
 ## Tutorial video
-```COMING SOON!⚠️```
+
+[![Tutorial video](https://raw.githubusercontent.com/NelsonOoi/vlsi-tutorial/main/video_thumbnail.png)](https://www.youtube.com/watch?v=cbTl3ACD9bU)
 
 
 ## Resources for learning
@@ -20,8 +21,8 @@ Tutorial on getting started with testing, Cadence Virtuoso, VerilogA, and more f
 
 ## Credits
 
-ECE 4740 course staff for providing foundational MATLAB and VerilogA code
+ECE 4740 course staff for providing foundational MATLAB and VerilogA code.
 
-Music: "Past Sadness" and "Late Night Radio" Kevin MacLeod (incompetech.com)  
-Licensed under Creative Commons: By Attribution 4.0 License  
+Music used in video: "Past Sadness" and "Late Night Radio" by Kevin MacLeod (incompetech.com).  
+Licensed under Creative Commons: By Attribution 4.0 License.  
 http://creativecommons.org/licenses/by/4.0/
