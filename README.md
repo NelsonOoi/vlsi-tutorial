@@ -1,14 +1,17 @@
 # VLSI Tutorial
 Tutorial on getting started with testing, Cadence Virtuoso, VerilogA, and more for VLSI. Created for the course ECE 4740: Introduction to VLSI Design at Cornell University.
 
-## Tutorial video
-
+## VLSI testing tutorial video
+Watch at this link:
+[https://www.youtube.com/watch?v=cbTl3ACD9bU](https://www.youtube.com/watch?v=cbTl3ACD9bU)
+or, click the thumbnail below.
 [![Tutorial video](https://raw.githubusercontent.com/NelsonOoi/vlsi-tutorial/main/video_thumbnail.png)](https://www.youtube.com/watch?v=cbTl3ACD9bU)
 
 
 ## Resources for learning
 - Cadence Virtuoso
   - [Multi-bit bus wire naming from UMich](https://www.eecs.umich.edu/courses/eecs427/f10/Common/busnames.pdf)
+  - [Cadence Virtuoso editing shortcuts](https://inst.eecs.berkeley.edu/~ee140/sp18/labs/lab2/lab2_cadence_editing.pdf)
 - VerilogA
   - [VerilogA Language Reference Manual by Open Verilog International](https://www.siue.edu/~gengel/ece585WebStuff/OVI_VerilogA.pdf)
   - [Minimal example for writing an analog module](https://community.cadence.com/cadence_technology_forums/f/custom-ic-skill/42686/virtuoso-how-to-create-a-truly-parametric-component-i-e-with-dynamic-termorder)
